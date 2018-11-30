@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/filepicker_client.rb"]
   s.homepage    = "https://github.com/infowrap/filepicker_client"
 
-  s.add_dependency "rest-client", "~> 1.6"
+  s.add_dependency "rest-client", "~> 2.0"
 end
